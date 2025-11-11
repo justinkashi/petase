@@ -1,2 +1,6 @@
 venv/
 .venv/
+
+#INTERPROSCAN
+apps/interproscan/
+apps/interproscan-*/
