@@ -1,5 +1,9 @@
+#PYTHON
 venv/
 .venv/
+
+#Apple
+.DS_Store
 
 #INTERPROSCAN
 apps/interproscan/
