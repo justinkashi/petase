@@ -1,4 +1,4 @@
-Nov 10
+Tasks to do 
 
 1. Obtain functional annotation on petase dataset (interpro, blastp)
 
